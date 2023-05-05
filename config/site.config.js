@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'WTMSB',
+      name: 'blog',
       link: 'https://wtmsb.ml',
     },
   ],
